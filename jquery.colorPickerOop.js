@@ -11,7 +11,7 @@
         		libelle_couleur_vide: 'Aucune couleur',
         		nb_cases_par_ligne: 4,
         		name: 'couleur',
-        		chemin: 'components/intraknow/lib'
+        		chemin: 'components'
         	}, params);
         	
         	        	
